@@ -1,0 +1,10 @@
+{
+  "name": "dynagentic-staff",
+  "version": "0.1.0",
+  "description": "Dynagentic workshop instructor/staff toolkit. Bundles the /mcp-staff connector and the dynagentic-staff skill so an instructor goes from a two-step manual process down to one-click install.",
+  "author": {
+    "name": "Dynagentic"
+  },
+  "keywords": ["dynagentic", "workshop", "staff", "instructor", "mcp"],
+  "mcpServers": "./.mcp.json"
+}

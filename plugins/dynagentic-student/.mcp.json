@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "dynagentic-student": {
+      "type": "http",
+      "url": "https://d3vfrcd9gs7j0x.cloudfront.net/mcp-student",
+      "headers": {
+        "Authorization": "Bearer ${DYNAGENTIC_STUDENT_TOKEN}"
+      }
+    }
+  }
+}

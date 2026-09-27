@@ -1,0 +1,10 @@
+{
+  "name": "dynagentic-student",
+  "version": "0.1.0",
+  "description": "Dynagentic workshop student toolkit. Bundles the /mcp-student connector and the dynagentic-student skill so a student goes from a two-step manual process down to one-click install.",
+  "author": {
+    "name": "Dynagentic"
+  },
+  "keywords": ["dynagentic", "workshop", "student", "mcp"],
+  "mcpServers": "./.mcp.json"
+}
