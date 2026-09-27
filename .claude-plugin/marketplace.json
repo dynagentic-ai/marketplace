@@ -9,7 +9,7 @@
       "source": {
         "source": "archive",
         "url": "https://d3vfrcd9gs7j0x.cloudfront.net/marketplace/dynagentic-student.plugin",
-        "sha256": "a02447cd5b9a2c59bafcb5663b741d087836cd1b7c92d6cec83cb3988597542c"
+        "sha256": "1cc279e194b7622e46188d33faf1f9fc6a55f7d3a7aa9132daf172b1a11555fb"
       }
     },
     {
@@ -18,7 +18,7 @@
       "source": {
         "source": "archive",
         "url": "https://d3vfrcd9gs7j0x.cloudfront.net/marketplace/dynagentic-staff.plugin",
-        "sha256": "ab7bd0eea26465f366f9a30bbbc9bccefb94aea738b165b0ccb28550a9cc2b09"
+        "sha256": "3a68277606c1fe6895e1ce0475dd29a23564b12343a24c411e2da6bb7fe3f027"
       }
     }
   ]
