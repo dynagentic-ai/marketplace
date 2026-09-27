@@ -1,0 +1,25 @@
+{
+  "name": "dynagentic-connector",
+  "description": "Dynagentic connector plugins for Claude Desktop and Cowork.",
+  "owner": { "name": "Dynagentic", "email": "hello@dynagentic.ai" },
+  "plugins": [
+    {
+      "name": "dynagentic-student",
+      "description": "Student-edition Dynagentic connector for ABW course exercises.",
+      "source": {
+        "source": "archive",
+        "url": "https://d3vfrcd9gs7j0x.cloudfront.net/marketplace/dynagentic-student.plugin",
+        "sha256": "a02447cd5b9a2c59bafcb5663b741d087836cd1b7c92d6cec83cb3988597542c"
+      }
+    },
+    {
+      "name": "dynagentic-staff",
+      "description": "Staff-edition Dynagentic connector for ABW instructors.",
+      "source": {
+        "source": "archive",
+        "url": "https://d3vfrcd9gs7j0x.cloudfront.net/marketplace/dynagentic-staff.plugin",
+        "sha256": "ab7bd0eea26465f366f9a30bbbc9bccefb94aea738b165b0ccb28550a9cc2b09"
+      }
+    }
+  ]
+}
